@@ -1,0 +1,2 @@
+# basets
+Basic typescript project
